@@ -1,5 +1,935 @@
 [
   {
+    "manufacture": "Abarth",
+    "name": "595 esseesse",
+    "year": 1968,
+    "car-type": "Cult Cars",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2017
+  },
+  {
+    "manufacture": "Abarth",
+    "name": "Fiat 131",
+    "year": 1980,
+    "car-type": "Classic Rally",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1124
+  },
+  {
+    "manufacture": "Abarth",
+    "name": "695 Biposto",
+    "year": 2016,
+    "car-type": "Hot Hatch",
+    "country": "Italy",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2489
+  },
+  {
+    "manufacture": "Abarth",
+    "name": "124 Spider",
+    "year": 2017,
+    "car-type": "Modern Sports Cars",
+    "country": "Italy",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2740
+  },
+  {
+    "manufacture": "Acura",
+    "name": "Integra Type R",
+    "year": 2001,
+    "car-type": "Retro Hot Hatch",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 368
+  },
+  {
+    "manufacture": "Acura",
+    "name": "RSX Type S",
+    "year": 2002,
+    "car-type": "Retro Hot Hatch",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 422
+  },
+  {
+    "manufacture": "Acura",
+    "name": "Integra A-Spec",
+    "year": 2023,
+    "car-type": "Hot Hatch",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3726
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "Giulia Sprint GTA Stradale",
+    "year": 1965,
+    "car-type": "Rare Classics",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1150
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "Giulia TZ2",
+    "year": 1965,
+    "car-type": "Classic Racers",
+    "country": "Italy",
+    "collection": "Collection Journal, Seasonal",
+    "add-ons": null,
+    "id": 2161
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "33 Stradale",
+    "year": 1968,
+    "car-type": "Classic Racers",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1549
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "Autodelta Tipo 33/2 Daytona",
+    "year": 1968,
+    "car-type": "Classic Racers",
+    "country": "Italy",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3494
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "SE 048SP",
+    "year": 1990,
+    "car-type": "Retro Racers",
+    "country": "Italy",
+    "collection": "Autoshow DLC",
+    "add-ons": "Italian Passion Car Pack",
+    "id": 3304
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "155 Q4",
+    "year": 1992,
+    "car-type": "Retro Super Saloons",
+    "country": "Italy",
+    "collection": "Autoshow",
+    "add-ons": null,
+    "id": 1393
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "8C Competizione",
+    "year": 2007,
+    "car-type": "GT Cars",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1032
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "4C",
+    "year": 2014,
+    "car-type": "Modern Sports Cars",
+    "country": "Italy",
+    "collection": "Autoshow",
+    "add-ons": null,
+    "id": 2038
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "Giulia Quadrifoglio",
+    "year": 2017,
+    "car-type": "Modern Super Saloons",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2542
+  },
+  {
+    "manufacture": "Alfa Romeo",
+    "name": "Giulia GTAm",
+    "year": 2021,
+    "car-type": "Modern Super Saloons",
+    "country": "Italy",
+    "collection": "Autoshow DLC",
+    "add-ons": "Italian Passion Car Pack",
+    "id": 4147
+  },
+  {
+    "manufacture": "Alumicraft",
+    "name": "Class 10 Race Car",
+    "year": 2015,
+    "car-type": "Unlimited Buggies",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2552
+  },
+  {
+    "manufacture": "Alumicraft",
+    "name": "#122 Class 1 Buggy",
+    "year": 2021,
+    "car-type": "Unlimited Buggies",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3549
+  },
+  {
+    "manufacture": "Alumicraft",
+    "name": "#6165 Trick truck",
+    "year": 2022,
+    "car-type": "Unlimited Offroad",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3693
+  },
+  {
+    "manufacture": "AMG Transport Dynamics",
+    "name": "M12S Warthog CST",
+    "year": 2554,
+    "car-type": "Unlimited Offroad",
+    "country": "USA",
+    "collection": "Autoshow, Collection Journal",
+    "add-ons": null,
+    "id": 2574
+  },
+  {
+    "manufacture": "Apollo",
+    "name": "Intensa Emozione",
+    "year": 2019,
+    "car-type": "Extreme Track Toys",
+    "country": "Germany",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 3141
+  },
+  {
+    "manufacture": "Ariel",
+    "name": "Atom 500 V8",
+    "year": 2013,
+    "car-type": "Extreme Track Toys",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1651
+  },
+  {
+    "manufacture": "Ariel",
+    "name": "Nomad",
+    "year": 2016,
+    "car-type": "Unlimited Buggies",
+    "country": "UK",
+    "collection": "Autoshow, Collection Journal, Wheelspin",
+    "add-ons": null,
+    "id": 2430
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "DB5",
+    "year": 1964,
+    "car-type": "Rare Classics",
+    "country": "UK",
+    "collection": "Autoshow",
+    "add-ons": null,
+    "id": 1105
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "DB7 GT",
+    "year": 2003,
+    "car-type": "Retro Sports Cars",
+    "country": "UK",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3325
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "DB11",
+    "year": 2017,
+    "car-type": "Super GT",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2527
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "DBS Superleggera",
+    "year": 2019,
+    "car-type": "Super GT",
+    "country": "UK",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 3185
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "DBX",
+    "year": 2021,
+    "car-type": "Sports Utility Heroes",
+    "country": "UK",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 3580
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "Valhalla",
+    "year": 2019,
+    "car-type": "Hypercars",
+    "country": "UK",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 3364
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "Valkyrie",
+    "year": 2023,
+    "car-type": "Hypercars",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2968
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "Valkyrie AMR Pro",
+    "year": 2022,
+    "car-type": "Extreme Track Toys",
+    "country": "UK",
+    "collection": "Autoshow, Collection Journal, Wheelspin",
+    "add-ons": null,
+    "id": 3631
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "Vantage",
+    "year": 2019,
+    "car-type": "GT Cars",
+    "country": "UK",
+    "collection": "Autoshow",
+    "add-ons": null,
+    "id": 3091
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "Vulcan",
+    "year": 2016,
+    "car-type": "Extreme Track Toys",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin, Loyalty",
+    "add-ons": null,
+    "id": 2470
+  },
+  {
+    "manufacture": "Aston Martin",
+    "name": "Vulcan AMR Pro",
+    "year": 2017,
+    "car-type": "Extreme Track Toys",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3211
+  },
+  {
+    "manufacture": "Audi",
+    "name": "R8 LMS",
+    "year": 2009,
+    "car-type": "Extreme Track Toys",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1200
+  },
+  {
+    "manufacture": "Audi",
+    "name": "R8 Coupé V10 plus 5.2 FSI quattro",
+    "year": 2013,
+    "car-type": "Modern Supercars",
+    "country": "Germany",
+    "collection": "Collection Journal, Seasonal",
+    "add-ons": null,
+    "id": 2010
+  },
+  {
+    "manufacture": "Audi",
+    "name": "R8 V10 Plus",
+    "year": 2016,
+    "car-type": "Modern Supercars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2473
+  },
+  {
+    "manufacture": "Audi",
+    "name": "R8 V10 performance",
+    "year": 2020,
+    "car-type": "Modern Supercars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3745
+  },
+  {
+    "manufacture": "Audi",
+    "name": "R8 Coupé V10 GT RWD",
+    "year": 2023,
+    "car-type": "Modern Supercars",
+    "country": "Germany",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3917
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 3 Sportback",
+    "year": 2011,
+    "car-type": "Super Hot Hatch",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1216
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 3 Sedan",
+    "year": 2020,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3454
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 4 Avant",
+    "year": 2001,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2178
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 4",
+    "year": 2006,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 419
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 4 Avant",
+    "year": 2013,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1607
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 4 Avant",
+    "year": 2018,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3318
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 5 Coupé",
+    "year": 2011,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1417
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 6",
+    "year": 2003,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 420
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 6",
+    "year": 2009,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1184
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 6 Avant",
+    "year": 2015,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2180
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 6 Avant",
+    "year": 2021,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3583
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 7 Sportback",
+    "year": 2013,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2009
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS 7 Sportback",
+    "year": 2021,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3584
+  },
+  {
+    "manufacture": "Audi",
+    "name": "RS e-tron GT",
+    "year": 2021,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3359
+  },
+  {
+    "manufacture": "Audi",
+    "name": "S1",
+    "year": 2015,
+    "car-type": "Hot Hatch",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2179
+  },
+  {
+    "manufacture": "Audi",
+    "name": "Sport Quattro",
+    "year": 1983,
+    "car-type": "Retro Rally",
+    "country": "Germany",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 633
+  },
+  {
+    "manufacture": "Audi",
+    "name": "#2 Audi Sport quattro S1",
+    "year": 1986,
+    "car-type": "Rally Monsters",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1478
+  },
+  {
+    "manufacture": "Audi",
+    "name": "TT RS",
+    "year": 2010,
+    "car-type": "Modern Sports Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1220
+  },
+  {
+    "manufacture": "Austin-Healey",
+    "name": "3000 MkIII",
+    "year": 1965,
+    "car-type": "Classic Sports Cars",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1481
+  },
+  {
+    "manufacture": "Autozam",
+    "name": "AZ-1",
+    "year": 1993,
+    "car-type": "Eclectic Domestics",
+    "country": "Japan",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3854
+  },
+  {
+    "manufacture": "BAC",
+    "name": "Mono",
+    "year": 2014,
+    "car-type": "Track Toys",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2040
+  },
+  {
+    "manufacture": "Bentley",
+    "name": "Bentayga",
+    "year": 2016,
+    "car-type": "Sports Utility Heroes",
+    "country": "UK",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 2625
+  },
+  {
+    "manufacture": "Bentley",
+    "name": "Continental GT Convertible",
+    "year": 2021,
+    "car-type": "GT Cars",
+    "country": "UK",
+    "collection": "Autoshow, Collection Journal, Wheelspin",
+    "add-ons": null,
+    "id": 3728
+  },
+  {
+    "manufacture": "BMW",
+    "name": "850CSi",
+    "year": 1995,
+    "car-type": "Retro Sports Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1493
+  },
+  {
+    "manufacture": "BMW",
+    "name": "2002 Turbo",
+    "year": 1973,
+    "car-type": "Classic Sports Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1269
+  },
+  {
+    "manufacture": "BMW",
+    "name": "i8",
+    "year": 2015,
+    "car-type": "Modern Sports Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2133
+  },
+  {
+    "manufacture": "BMW",
+    "name": "Isetta 300 Export",
+    "year": 1957,
+    "car-type": "Cult Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2412
+  },
+  {
+    "manufacture": "BMW",
+    "name": "iX xDrive50",
+    "year": 2022,
+    "car-type": "Sports Utility Heroes",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3737
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M1",
+    "year": 1981,
+    "car-type": "Retro Supercars",
+    "country": "Germany",
+    "collection": "Collection Journal",
+    "add-ons": null,
+    "id": 1040
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M2 Competition Coupé",
+    "year": 2020,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 3434
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M2",
+    "year": 2023,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3763
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M2 Forza Edition",
+    "year": 2023,
+    "car-type": "Track Toys",
+    "country": "Germany",
+    "collection": "Collection Journal, Seasonal",
+    "add-ons": null,
+    "id": 4166
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M3",
+    "year": 1988,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 4069
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M3",
+    "year": 1997,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 382
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M3",
+    "year": 2005,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 383
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M3",
+    "year": 2008,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1011
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M3 GTS",
+    "year": 2010,
+    "car-type": "Track Toys",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1598
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M4",
+    "year": 2014,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2154
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M4 GTS",
+    "year": 2016,
+    "car-type": "Track Toys",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2628
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M4 Competition Coupé",
+    "year": 2021,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3645
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M4 Competition Coupé Welcome Pack",
+    "year": 2021,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow DLC",
+    "add-ons": "Welcome Pack",
+    "id": 4266
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M5",
+    "year": 1988,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1368
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M5",
+    "year": 1995,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1418
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M5",
+    "year": 2003,
+    "car-type": "Retro Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1367
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M5",
+    "year": 2009,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1126
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M5",
+    "year": 2012,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1388
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M5 CS",
+    "year": 2022,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3764
+  },
+  {
+    "manufacture": "BMW",
+    "name": "M8 Competition Coupé",
+    "year": 2020,
+    "car-type": "GT Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3518
+  },
+  {
+    "manufacture": "BMW",
+    "name": "X5 M",
+    "year": 2011,
+    "car-type": "Sports Utility Heroes",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1350
+  },
+  {
+    "manufacture": "BMW",
+    "name": "X6 M Competition",
+    "year": 2024,
+    "car-type": "Sports Utility Heroes",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3983
+  },
+  {
+    "manufacture": "BMW",
+    "name": "Z4 M Coupé",
+    "year": 2008,
+    "car-type": "Modern Sports Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1059
+  },
+  {
+    "manufacture": "BMW",
+    "name": "Z4 Roadster",
+    "year": 2019,
+    "car-type": "Modern Sports Cars",
+    "country": "Germany",
+    "collection": "Autoshow, Collection Journal, Wheelspin",
+    "add-ons": null,
+    "id": 3173
+  },
+  {
+    "manufacture": "Buick",
+    "name": "Regal GNX",
+    "year": 1987,
+    "car-type": "Retro Muscle",
+    "country": "USA",
+    "collection": "Autoshow",
+    "add-ons": null,
+    "id": 417
+  },
+  {
     "manufacture": "Toyota",
     "name": "2000 GT",
     "year": 1969,
@@ -450,16 +1380,6 @@
     "id": 365
   },
   {
-    "manufacture": "Acura",
-    "name": "Integra Type R",
-    "year": 2001,
-    "car-type": "Retro Hot Hatch",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 368
-  },
-  {
     "manufacture": "Mitsubishi",
     "name": "Lancer Evolution IX MR",
     "year": 2006,
@@ -488,26 +1408,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 379
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M3 E36",
-    "year": 1997,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 382
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M3 E46",
-    "year": 2005,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 383
   },
   {
     "manufacture": "Maserati",
@@ -558,46 +1458,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 412
-  },
-  {
-    "manufacture": "Buick",
-    "name": "Regal GNX",
-    "year": 1987,
-    "car-type": "Retro Muscle",
-    "country": "USA",
-    "collection": "Autoshow",
-    "add-ons": null,
-    "id": 417
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 4",
-    "year": 2006,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 419
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 6",
-    "year": 2003,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 420
-  },
-  {
-    "manufacture": "Acura",
-    "name": "RSX Type S",
-    "year": 2002,
-    "car-type": "Retro Hot Hatch",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 422
   },
   {
     "manufacture": "Mazda",
@@ -760,16 +1620,6 @@
     "id": 625
   },
   {
-    "manufacture": "Audi",
-    "name": "Sport Quattro",
-    "year": 1983,
-    "car-type": "Retro Rally",
-    "country": "Germany",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 633
-  },
-  {
     "manufacture": "Renault",
     "name": "5 Turbo",
     "year": 1980,
@@ -840,16 +1690,6 @@
     "id": 1009
   },
   {
-    "manufacture": "BMW",
-    "name": "M3 E92",
-    "year": 2008,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1011
-  },
-  {
     "manufacture": "Ferrari",
     "name": "F50 GT",
     "year": 1996,
@@ -880,16 +1720,6 @@
     "id": 1023
   },
   {
-    "manufacture": "Alfa Romeo",
-    "name": "8C Competizione",
-    "year": 2007,
-    "car-type": "GT Cars",
-    "country": "Italy",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1032
-  },
-  {
     "manufacture": "Toyota",
     "name": "Celica ST205",
     "year": 1994,
@@ -898,16 +1728,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1034
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M1",
-    "year": 1981,
-    "car-type": "Retro Supercars",
-    "country": "Germany",
-    "collection": "Collection Journal",
-    "add-ons": null,
-    "id": 1040
   },
   {
     "manufacture": "Ford",
@@ -958,16 +1778,6 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 1052
-  },
-  {
-    "manufacture": "BMW",
-    "name": "Z4 M Coupe",
-    "year": 2008,
-    "car-type": "Modern Sports Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1059
   },
   {
     "manufacture": "Subaru",
@@ -1060,16 +1870,6 @@
     "id": 1104
   },
   {
-    "manufacture": "Aston Martin",
-    "name": "DB5 Vantage",
-    "year": 1964,
-    "car-type": "Rare Classics",
-    "country": "UK",
-    "collection": "Autoshow",
-    "add-ons": null,
-    "id": 1105
-  },
-  {
     "manufacture": "Ford",
     "name": "RS200 Evolution",
     "year": 1987,
@@ -1090,26 +1890,6 @@
     "id": 1110
   },
   {
-    "manufacture": "Abarth",
-    "name": "Fiat 131",
-    "year": 1980,
-    "car-type": "Classic Rally",
-    "country": "Italy",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1124
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M5",
-    "year": 2009,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1126
-  },
-  {
     "manufacture": "McLaren",
     "name": "MP4-12C",
     "year": 2011,
@@ -1128,16 +1908,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1131
-  },
-  {
-    "manufacture": "Alfa Romeo",
-    "name": "Giulia Sprint GTA Stradale",
-    "year": 1965,
-    "car-type": "Rare Classics",
-    "country": "Italy",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1150
   },
   {
     "manufacture": "Shelby",
@@ -1180,26 +1950,6 @@
     "id": 1175
   },
   {
-    "manufacture": "Audi",
-    "name": "RS 6",
-    "year": 2009,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1184
-  },
-  {
-    "manufacture": "Audi",
-    "name": "R8 LMS",
-    "year": 2009,
-    "car-type": "Extreme Track Toys",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1200
-  },
-  {
     "manufacture": "Renault",
     "name": "Megane RS250",
     "year": 2010,
@@ -1218,26 +1968,6 @@
     "collection": null,
     "add-ons": null,
     "id": 1215
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 3 Sportback",
-    "year": 2011,
-    "car-type": "Super Hot Hatch",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1216
-  },
-  {
-    "manufacture": "Audi",
-    "name": "TT RS",
-    "year": 2010,
-    "car-type": "Modern Sports Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1220
   },
   {
     "manufacture": "Mazdaspeed",
@@ -1288,16 +2018,6 @@
     "collection": "Autoshow",
     "add-ons": null,
     "id": 1260
-  },
-  {
-    "manufacture": "BMW",
-    "name": "2002 Turbo",
-    "year": 1973,
-    "car-type": "Classic Sports Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1269
   },
   {
     "manufacture": "DeLorean",
@@ -1500,16 +2220,6 @@
     "id": 1335
   },
   {
-    "manufacture": "BMW",
-    "name": "X5 M",
-    "year": 2011,
-    "car-type": "Sports Utility Heroes",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1350
-  },
-  {
     "manufacture": "Dodge",
     "name": "Super Bee",
     "year": 1970,
@@ -1528,26 +2238,6 @@
     "collection": "Autoshow",
     "add-ons": null,
     "id": 1355
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M5 E39",
-    "year": 2003,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1367
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M5 E28",
-    "year": 1988,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1368
   },
   {
     "manufacture": "Pagani",
@@ -1600,16 +2290,6 @@
     "id": 1382
   },
   {
-    "manufacture": "BMW",
-    "name": "M5",
-    "year": 2012,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1388
-  },
-  {
     "manufacture": "Lamborghini",
     "name": "Sesto Elemento",
     "year": 2011,
@@ -1618,16 +2298,6 @@
     "collection": "Wheelspin, Seasonal",
     "add-ons": null,
     "id": 1392
-  },
-  {
-    "manufacture": "Alfa Romeo",
-    "name": "155",
-    "year": 1992,
-    "car-type": "Retro Super Saloons",
-    "country": "Italy",
-    "collection": "Autoshow",
-    "add-ons": null,
-    "id": 1393
   },
   {
     "manufacture": "GMC",
@@ -1668,26 +2338,6 @@
     "collection": "Wheelspin, Seasonal",
     "add-ons": null,
     "id": 1398
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 5 Coupé",
-    "year": 2011,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1417
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M5",
-    "year": 1995,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1418
   },
   {
     "manufacture": "Mazda",
@@ -1750,16 +2400,6 @@
     "id": 1477
   },
   {
-    "manufacture": "Audi",
-    "name": "Sport Quattro S1",
-    "year": 1986,
-    "car-type": "Rally Monsters",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1478
-  },
-  {
     "manufacture": "Mazda",
     "name": "RX-7",
     "year": 1985,
@@ -1768,26 +2408,6 @@
     "collection": "Collection Journal",
     "add-ons": null,
     "id": 1480
-  },
-  {
-    "manufacture": "Austin-Healey",
-    "name": "3000",
-    "year": 1965,
-    "car-type": "Classic Sports Cars",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1481
-  },
-  {
-    "manufacture": "BMW",
-    "name": "850CSi",
-    "year": 1995,
-    "car-type": "Retro Sports Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1493
   },
   {
     "manufacture": "Mercedes-Benz",
@@ -1880,16 +2500,6 @@
     "id": 1537
   },
   {
-    "manufacture": "Alfa Romeo",
-    "name": "33 Stradale",
-    "year": 1968,
-    "car-type": "Classic Racers",
-    "country": "Italy",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1549
-  },
-  {
     "manufacture": "Mercedes-Benz",
     "name": "300 SLR",
     "year": 1955,
@@ -1980,16 +2590,6 @@
     "id": 1591
   },
   {
-    "manufacture": "BMW",
-    "name": "M3 GTS",
-    "year": 2010,
-    "car-type": "Track Toys",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1598
-  },
-  {
     "manufacture": "Ferrari",
     "name": "599XX Evolution",
     "year": 2012,
@@ -2010,16 +2610,6 @@
     "id": 1601
   },
   {
-    "manufacture": "Audi",
-    "name": "RS 4 Avant",
-    "year": 2013,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1607
-  },
-  {
     "manufacture": "Mercedes-Benz",
     "name": "G65 AMG",
     "year": 2013,
@@ -2038,16 +2628,6 @@
     "collection": "Autoshow",
     "add-ons": null,
     "id": 1650
-  },
-  {
-    "manufacture": "Ariel",
-    "name": "Atom",
-    "year": 2013,
-    "car-type": "Extreme Track Toys",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1651
   },
   {
     "manufacture": "Ford",
@@ -2170,36 +2750,6 @@
     "id": 2007
   },
   {
-    "manufacture": "Audi",
-    "name": "RS 7 Sportback",
-    "year": 2013,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2009
-  },
-  {
-    "manufacture": "Audi",
-    "name": "R8 Coupé V10 plus 5.2 FSI quattro",
-    "year": 2013,
-    "car-type": "Modern Supercars",
-    "country": "Germany",
-    "collection": "Collection Journal, Seasonal",
-    "add-ons": null,
-    "id": 2010
-  },
-  {
-    "manufacture": "Abarth",
-    "name": "595 esseesse",
-    "year": 1968,
-    "car-type": "Cult Cars",
-    "country": "Italy",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2017
-  },
-  {
     "manufacture": "Ford",
     "name": "Focus RS",
     "year": 2003,
@@ -2218,26 +2768,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2034
-  },
-  {
-    "manufacture": "Alfa Romeo",
-    "name": "4C",
-    "year": 2014,
-    "car-type": "Modern Sports Cars",
-    "country": "Italy",
-    "collection": "Autoshow",
-    "add-ons": null,
-    "id": 2038
-  },
-  {
-    "manufacture": "BAC",
-    "name": "Mono",
-    "year": 2014,
-    "car-type": "Track Toys",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2040
   },
   {
     "manufacture": "Lamborghini",
@@ -2288,16 +2818,6 @@
     "collection": null,
     "add-ons": null,
     "id": 2131
-  },
-  {
-    "manufacture": "BMW",
-    "name": "i8",
-    "year": 2015,
-    "car-type": "Modern Sports Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2133
   },
   {
     "manufacture": "Subaru",
@@ -2370,26 +2890,6 @@
     "id": 2151
   },
   {
-    "manufacture": "BMW",
-    "name": "M4",
-    "year": 2014,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2154
-  },
-  {
-    "manufacture": "Alfa Romeo",
-    "name": "Giulia TZ2",
-    "year": 1965,
-    "car-type": "Classic Racers",
-    "country": "Italy",
-    "collection": "Collection Journal, Seasonal",
-    "add-ons": null,
-    "id": 2161
-  },
-  {
     "manufacture": "Honda",
     "name": "Civic Type R",
     "year": 2015,
@@ -2448,36 +2948,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2177
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 4 Avant",
-    "year": 2001,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2178
-  },
-  {
-    "manufacture": "Audi",
-    "name": "S1",
-    "year": 2015,
-    "car-type": "Hot Hatch",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2179
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 6 Avant",
-    "year": 2015,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2180
   },
   {
     "manufacture": "Chevrolet",
@@ -2670,16 +3140,6 @@
     "id": 2400
   },
   {
-    "manufacture": "BMW",
-    "name": "Isetta 300 Export",
-    "year": 1957,
-    "car-type": "Cult Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2412
-  },
-  {
     "manufacture": "Meyers",
     "name": "Manx",
     "year": 1971,
@@ -2720,16 +3180,6 @@
     "id": 2422
   },
   {
-    "manufacture": "Ariel",
-    "name": "Nomad",
-    "year": 2016,
-    "car-type": "Unlimited Buggies",
-    "country": "UK",
-    "collection": "Autoshow, Collection Journal, Wheelspin",
-    "add-ons": null,
-    "id": 2430
-  },
-  {
     "manufacture": "Ferrari",
     "name": "488 GTB",
     "year": 2015,
@@ -2760,16 +3210,6 @@
     "id": 2469
   },
   {
-    "manufacture": "Aston Martin",
-    "name": "Vulcan",
-    "year": 2016,
-    "car-type": "Extreme Track Toys",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin, Loyalty",
-    "add-ons": null,
-    "id": 2470
-  },
-  {
     "manufacture": "Mercedes-Benz",
     "name": "C63 AMG Coupe",
     "year": 2016,
@@ -2790,16 +3230,6 @@
     "id": 2472
   },
   {
-    "manufacture": "Audi",
-    "name": "R8 V10 Plus",
-    "year": 2016,
-    "car-type": "Modern Supercars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2473
-  },
-  {
     "manufacture": "Radical",
     "name": "RXC Turbo",
     "year": 2015,
@@ -2808,16 +3238,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2486
-  },
-  {
-    "manufacture": "Abarth",
-    "name": "695 Biposto",
-    "year": 2016,
-    "car-type": "Hot Hatch",
-    "country": "Italy",
-    "collection": "Seasonal",
-    "add-ons": null,
-    "id": 2489
   },
   {
     "manufacture": "Land Rover",
@@ -2880,16 +3300,6 @@
     "id": 2526
   },
   {
-    "manufacture": "Aston Martin",
-    "name": "DB11",
-    "year": 2017,
-    "car-type": "Super GT",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2527
-  },
-  {
     "manufacture": "Porsche",
     "name": "968 Turbo S",
     "year": 1993,
@@ -2908,16 +3318,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2535
-  },
-  {
-    "manufacture": "Alfa Romeo",
-    "name": "Giulia Quadrifoglio",
-    "year": 2017,
-    "car-type": "Modern Super Saloons",
-    "country": "Italy",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2542
   },
   {
     "manufacture": "Dodge",
@@ -2948,16 +3348,6 @@
     "collection": null,
     "add-ons": null,
     "id": 2551
-  },
-  {
-    "manufacture": "Alumicraft",
-    "name": "Class 10 Race Car",
-    "year": 2015,
-    "car-type": "Unlimited Buggies",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2552
   },
   {
     "manufacture": "Reliant",
@@ -2998,16 +3388,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2569
-  },
-  {
-    "manufacture": "AMG Transport Dynamics",
-    "name": "M12 Warthog FAV",
-    "year": 2554,
-    "car-type": "Unlimited Offroad",
-    "country": "USA",
-    "collection": "Autoshow, Collection Journal",
-    "add-ons": null,
-    "id": 2574
   },
   {
     "manufacture": "Ferrari",
@@ -3058,26 +3438,6 @@
     "collection": null,
     "add-ons": null,
     "id": 2618
-  },
-  {
-    "manufacture": "Bentley",
-    "name": "Bentayga",
-    "year": 2016,
-    "car-type": "Sports Utility Heroes",
-    "country": "UK",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 2625
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M4 GTS",
-    "year": 2016,
-    "car-type": "Track Toys",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2628
   },
   {
     "manufacture": "Toyota",
@@ -3208,16 +3568,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2739
-  },
-  {
-    "manufacture": "Abarth",
-    "name": "124 Spider",
-    "year": 2017,
-    "car-type": "Modern Sports Cars",
-    "country": "Italy",
-    "collection": "Seasonal",
-    "add-ons": null,
-    "id": 2740
   },
   {
     "manufacture": "Jeep",
@@ -3428,16 +3778,6 @@
     "collection": "Wheelspin, Seasonal",
     "add-ons": null,
     "id": 2937
-  },
-  {
-    "manufacture": "Aston Martin",
-    "name": "Valkyrie",
-    "year": 2023,
-    "car-type": "Hypercars",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2968
   },
   {
     "manufacture": "Ferrari",
@@ -3670,16 +4010,6 @@
     "id": 3088
   },
   {
-    "manufacture": "Aston Martin",
-    "name": "Vantage",
-    "year": 2019,
-    "car-type": "GT Cars",
-    "country": "UK",
-    "collection": "Autoshow",
-    "add-ons": null,
-    "id": 3091
-  },
-  {
     "manufacture": "Mercedes-Benz",
     "name": "G63 AMG 6x6",
     "year": 2014,
@@ -3790,16 +4120,6 @@
     "id": 3134
   },
   {
-    "manufacture": "Apollo",
-    "name": "Intensa Emozione",
-    "year": 2019,
-    "car-type": "Extreme Track Toys",
-    "country": "Germany",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 3141
-  },
-  {
     "manufacture": "Chevrolet",
     "name": "Camaro 1LE",
     "year": 2018,
@@ -3840,16 +4160,6 @@
     "id": 3170
   },
   {
-    "manufacture": "BMW",
-    "name": "Z4",
-    "year": 2019,
-    "car-type": "Modern Sports Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Collection Journal, Wheelspin",
-    "add-ons": null,
-    "id": 3173
-  },
-  {
     "manufacture": "Mercedes-AMG",
     "name": "Hammer",
     "year": 1987,
@@ -3878,16 +4188,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3184
-  },
-  {
-    "manufacture": "Aston Martin",
-    "name": "DBS Superleggera",
-    "year": 2019,
-    "car-type": "Super GT",
-    "country": "UK",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 3185
   },
   {
     "manufacture": "Porsche",
@@ -3928,16 +4228,6 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 3198
-  },
-  {
-    "manufacture": "Aston Martin",
-    "name": "Vulcan AMR Pro",
-    "year": 2017,
-    "car-type": "Extreme Track Toys",
-    "country": "UK",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3211
   },
   {
     "manufacture": "Zenvo",
@@ -4120,16 +4410,6 @@
     "id": 3293
   },
   {
-    "manufacture": "Alfa Romeo",
-    "name": "SE 048SP",
-    "year": 1990,
-    "car-type": "Retro Racers",
-    "country": "Italy",
-    "collection": "Autoshow DLC",
-    "add-ons": "Italian Passion Car Pack",
-    "id": 3304
-  },
-  {
     "manufacture": "Nissan",
     "name": "370Z Nismo",
     "year": 2019,
@@ -4170,36 +4450,6 @@
     "id": 3315
   },
   {
-    "manufacture": "Audi",
-    "name": "RS 4 Avant",
-    "year": 2018,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3318
-  },
-  {
-    "manufacture": "Aston Martin",
-    "name": "DB7 GT",
-    "year": 2003,
-    "car-type": "Retro Sports Cars",
-    "country": "UK",
-    "collection": "Autoshow DLC",
-    "add-ons": "Car Pass",
-    "id": 3325
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS e-tron GT",
-    "year": 2021,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3359
-  },
-  {
     "manufacture": "Nissan",
     "name": "#23 Pennzoil Nismo Skyline GT-R",
     "year": 1998,
@@ -4208,16 +4458,6 @@
     "collection": "Collection Journal",
     "add-ons": null,
     "id": 3363
-  },
-  {
-    "manufacture": "Aston Martin",
-    "name": "Valhalla",
-    "year": 2019,
-    "car-type": "Hypercars",
-    "country": "UK",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 3364
   },
   {
     "manufacture": "Ferrari",
@@ -4350,16 +4590,6 @@
     "id": 3414
   },
   {
-    "manufacture": "BMW",
-    "name": "M2 Competition",
-    "year": 2020,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 3434
-  },
-  {
     "manufacture": "DeBerti",
     "name": "Ford Super Duty F-250 Lariat Transformer",
     "year": 2019,
@@ -4398,16 +4628,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3449
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 3 Sedan",
-    "year": 2020,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3454
   },
   {
     "manufacture": "Ford",
@@ -4458,16 +4678,6 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 3498
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M8",
-    "year": 2020,
-    "car-type": "GT Cars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3518
   },
   {
     "manufacture": "Lexus",
@@ -4560,16 +4770,6 @@
     "id": 3548
   },
   {
-    "manufacture": "Alumicraft",
-    "name": "#122 Class 1 buggy",
-    "year": 2021,
-    "car-type": "Unlimited Buggies",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3549
-  },
-  {
     "manufacture": "Formula Drift",
     "name": "#91 BMW M2",
     "year": 2020,
@@ -4588,36 +4788,6 @@
     "collection": "Collection Journal",
     "add-ons": null,
     "id": 3554
-  },
-  {
-    "manufacture": "Aston Martin",
-    "name": "DBX",
-    "year": 2021,
-    "car-type": "Sports Utility Heroes",
-    "country": "UK",
-    "collection": "Seasonal",
-    "add-ons": null,
-    "id": 3580
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 6 Avant",
-    "year": 2021,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3583
-  },
-  {
-    "manufacture": "Audi",
-    "name": "RS 7 Sportback",
-    "year": 2021,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3584
   },
   {
     "manufacture": "Chevrolet",
@@ -4790,26 +4960,6 @@
     "id": 3629
   },
   {
-    "manufacture": "Aston Martin",
-    "name": "Valkyrie AMR Pro",
-    "year": 2022,
-    "car-type": "Extreme Track Toys",
-    "country": "UK",
-    "collection": "Autoshow, Collection Journal, Wheelspin",
-    "add-ons": null,
-    "id": 3631
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M4",
-    "year": 2021,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3645
-  },
-  {
     "manufacture": "Merceds-AMG",
     "name": "One",
     "year": 2021,
@@ -4950,16 +5100,6 @@
     "id": 3692
   },
   {
-    "manufacture": "Alumicraft",
-    "name": "#6165 Trick truck",
-    "year": 2022,
-    "car-type": "Unlimited Offroad",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3693
-  },
-  {
     "manufacture": "Porsche",
     "name": "Mission R",
     "year": 2022,
@@ -5030,26 +5170,6 @@
     "id": 3724
   },
   {
-    "manufacture": "Acura",
-    "name": "Integra",
-    "year": 2023,
-    "car-type": "Hot Hatch",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3726
-  },
-  {
-    "manufacture": "Bentley",
-    "name": "Continental GTC",
-    "year": 2021,
-    "car-type": "GT Cars",
-    "country": "UK",
-    "collection": "Autoshow, Collection Journal, Wheelspin",
-    "add-ons": null,
-    "id": 3728
-  },
-  {
     "manufacture": "Subaru",
     "name": "BRZ",
     "year": 2022,
@@ -5070,16 +5190,6 @@
     "id": 3736
   },
   {
-    "manufacture": "BMW",
-    "name": "iX",
-    "year": 2022,
-    "car-type": "Sports Utility Heroes",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3737
-  },
-  {
     "manufacture": "Formula Drift",
     "name": "#64 Forsberg Racing Nissan Z",
     "year": 2023,
@@ -5088,16 +5198,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3744
-  },
-  {
-    "manufacture": "Audi",
-    "name": "R8 V10 performance",
-    "year": 2020,
-    "car-type": "Modern Supercars",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3745
   },
   {
     "manufacture": "Mitsubishi",
@@ -5158,26 +5258,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3761
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M2",
-    "year": 2023,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3763
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M5 CS",
-    "year": 2022,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3764
   },
   {
     "manufacture": "Chevrolet",
@@ -5430,16 +5510,6 @@
     "id": 3852
   },
   {
-    "manufacture": "Autozam",
-    "name": "AZ-1",
-    "year": 1993,
-    "car-type": "Eclectic Domestics",
-    "country": "Japan",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3854
-  },
-  {
     "manufacture": "Nissan",
     "name": "Figaro",
     "year": 1991,
@@ -5590,16 +5660,6 @@
     "id": 3914
   },
   {
-    "manufacture": "Audi",
-    "name": "R8 Coupé V10 GT RWD",
-    "year": 2023,
-    "car-type": "Modern Supercars",
-    "country": "Germany",
-    "collection": "Autoshow DLC",
-    "add-ons": "Car Pass",
-    "id": 3917
-  },
-  {
     "manufacture": "Nissan",
     "name": "Gloria",
     "year": 1995,
@@ -5710,16 +5770,6 @@
     "id": 3964
   },
   {
-    "manufacture": "BMW",
-    "name": "X6 M",
-    "year": 2024,
-    "car-type": "Sports Utility Heroes",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3983
-  },
-  {
     "manufacture": "Nissan",
     "name": "Silvia Spec-R",
     "year": 2002,
@@ -5778,16 +5828,6 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 4057
-  },
-  {
-    "manufacture": "BMW",
-    "name": "M3",
-    "year": 1988,
-    "car-type": "Retro Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 4069
   },
   {
     "manufacture": "Koenigsegg",
@@ -5940,16 +5980,6 @@
     "id": 4145
   },
   {
-    "manufacture": "Alfa Romeo",
-    "name": "Giulia GTAm",
-    "year": 2021,
-    "car-type": "Modern Super Saloons",
-    "country": "Italy",
-    "collection": "Autoshow DLC",
-    "add-ons": "Italian Passion Car Pack",
-    "id": 4147
-  },
-  {
     "manufacture": "Ferrari",
     "name": "F80",
     "year": 2025,
@@ -5961,7 +5991,7 @@
   },
   {
     "manufacture": "Lexus",
-    "name": "LFA (Forza Edition)",
+    "name": "LFA Forza Edition",
     "year": 2010,
     "car-type": "Extreme Track Toys",
     "country": "USA",
@@ -5971,7 +6001,7 @@
   },
   {
     "manufacture": "Nissan",
-    "name": "S-Cargo (Forza Edition)",
+    "name": "S-Cargo Forza Edition",
     "year": 1989,
     "car-type": "Track Toys",
     "country": "Japan",
@@ -5981,7 +6011,7 @@
   },
   {
     "manufacture": "Toyota",
-    "name": "Sprinter (Forza Edition)",
+    "name": "Sprinter Forza Edition",
     "year": 1985,
     "car-type": "Track Toys",
     "country": "Japan",
@@ -6001,7 +6031,7 @@
   },
   {
     "manufacture": "Subaru",
-    "name": "BRZ (Forza Edition)",
+    "name": "BRZ Forza Edition",
     "year": 2022,
     "car-type": "Unlimited Offroad",
     "country": "Japan",
@@ -6011,7 +6041,7 @@
   },
   {
     "manufacture": "Mazda",
-    "name": "RX-3 (Forza Edition)",
+    "name": "RX-3 Forza Edition",
     "year": 1973,
     "car-type": "Classic Sports Cars",
     "country": "Japan",
@@ -6020,18 +6050,8 @@
     "id": 4165
   },
   {
-    "manufacture": "BMW",
-    "name": "M2 (Forza Edition)",
-    "year": 2023,
-    "car-type": "Track Toys",
-    "country": "Germany",
-    "collection": "Collection Journal, Seasonal",
-    "add-ons": null,
-    "id": 4166
-  },
-  {
     "manufacture": "Nisan",
-    "name": "GT-R Black Edition R35 (Forza Edition)",
+    "name": "GT-R Black Edition R35 Forza Edition",
     "year": 2012,
     "car-type": null,
     "country": null,
@@ -6041,7 +6061,7 @@
   },
   {
     "manufacture": "Ford",
-    "name": "Mustang GT 2+2 Fastback (Forza Edition",
+    "name": "Mustang GT 2+2 Fastback Forza Edition",
     "year": 1968,
     "car-type": "Drift Cars",
     "country": "USA",
@@ -6051,7 +6071,7 @@
   },
   {
     "manufacture": "Mercedes-Benz",
-    "name": "190E 2.5-16 Evolution II (Forza Edition)",
+    "name": "190E 2.5-16 Evolution II Forza Edition",
     "year": 1990,
     "car-type": "Track Toys",
     "country": "Germany",
@@ -6061,7 +6081,7 @@
   },
   {
     "manufacture": "Ford",
-    "name": "F-150 XLT Lariat (Forza Edition)",
+    "name": "F-150 XLT Lariat Forza Edition",
     "year": 1986,
     "car-type": "Drift Cars",
     "country": "USA",
@@ -6071,7 +6091,7 @@
   },
   {
     "manufacture": "Ford",
-    "name": "F-450 DRW (Forza Edition)",
+    "name": "F-450 DRW Forza Edition",
     "year": 2020,
     "car-type": "Pickups & 4x4's",
     "country": "USA",
@@ -6091,7 +6111,7 @@
   },
   {
     "manufacture": "Mazda",
-    "name": "MX-5 Miata (Forza Edition)",
+    "name": "MX-5 Miata Forza Edition",
     "year": 1994,
     "car-type": "Retro Sports Cars",
     "country": "Japan",
@@ -6101,7 +6121,7 @@
   },
   {
     "manufacture": "Dodge",
-    "name": "Viper GTS ACR (Forza Edition)",
+    "name": "Viper GTS ACR Forza Edition",
     "year": 1999,
     "car-type": "Unlimited Offroad",
     "country": "USA",
@@ -6111,7 +6131,7 @@
   },
   {
     "manufacture": "Toyota",
-    "name": "Tacoma TRD Pro (Forza Edition)",
+    "name": "Tacoma TRD Pro Forza Edition",
     "year": 2019,
     "car-type": "Extreme Track Toys",
     "country": "Japan",
@@ -6121,7 +6141,7 @@
   },
   {
     "manufacture": "Lotus",
-    "name": "Evija (Forza Edition)",
+    "name": "Evija Forza Edition",
     "year": 2020,
     "car-type": "Drift Cars",
     "country": "UK",
@@ -6380,16 +6400,6 @@
     "id": 4265
   },
   {
-    "manufacture": "BMW",
-    "name": "M4 (Welcome Pack)",
-    "year": 2021,
-    "car-type": "Modern Super Saloons",
-    "country": "Germany",
-    "collection": "Autoshow DLC",
-    "add-ons": "Welcome Pack",
-    "id": 4266
-  },
-  {
     "manufacture": "Mitsubishi",
     "name": "Lancer Evolution VIII MR (Welcome Pack)",
     "year": 2004,
@@ -6431,7 +6441,7 @@
   },
   {
     "manufacture": "Subaru",
-    "name": "Vivio RX-R (Forza Edition)",
+    "name": "Vivio RX-R Forza Edition",
     "year": 1994,
     "car-type": "Extreme Track Toys",
     "country": "Japan",
@@ -6451,7 +6461,7 @@
   },
   {
     "manufacture": "Porsche",
-    "name": "#3 917 LH (Forza Edition)",
+    "name": "#3 917 LH Forza Edition",
     "year": 1970,
     "car-type": "Extreme Track Toys",
     "country": "Germany",
