@@ -982,13 +982,14 @@
     "add-ons": null
   },
   {
-    "manufacture": "Fiat",
-    "name": "131 Abarth Stradale",
+    "manufacture": "Abarth",
+    "name": "Fiat 131",
     "year": 1980,
-    "id": 1124,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Classic Rally",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1124
   },
   {
     "manufacture": "BMW",
@@ -1972,13 +1973,14 @@
     "add-ons": null
   },
   {
-    "manufacture": "Fiat",
-    "name": "595 SS",
+    "manufacture": "Abarth",
+    "name": "595 esseesse",
     "year": 1968,
-    "id": 2017,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Cult Cars",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2017
   },
   {
     "manufacture": "Ford",
@@ -2530,13 +2532,14 @@
     "add-ons": null
   },
   {
-    "manufacture": "Fiat",
-    "name": "695 Abarth",
+    "manufacture": "Abarth",
+    "name": "695 Biposto",
     "year": 2016,
-    "id": 2489,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Hot Hatch",
+    "country": "Italy",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2489
   },
   {
     "manufacture": "Land Rover",
@@ -2893,10 +2896,11 @@
     "manufacture": "Abarth",
     "name": "124 Spider",
     "year": 2017,
-    "id": 2740,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Modern Sports Cars",
+    "country": "Italy",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2740
   },
   {
     "manufacture": "Jeep",
