@@ -1,3 +1,29 @@
+## Data structure
+
+Forza Horizon 6
+```
+  {
+    "manufacture": "Acura",
+    "name": "Integra Type R",
+    "year": 2001,
+    "car-type": "Retro Hot Hatch",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 368
+  },
+  {
+    "manufacture": "Ford",
+    "name": "F-150 Raptor R (Welcome Pack)",
+    "year": 2023,
+    "car-type": "Pickups & 4x4's",
+    "country": "USA",
+    "collection": "Autoshow DLC",
+    "add-ons": "Welcome Pack",
+    "id": 4268
+  }
+```
+
 <table>
   <thead>
     <tr>
