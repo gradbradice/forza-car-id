@@ -591,7 +591,7 @@
   },
   {
     "manufacture": "Acura",
-    "name": "RSX Type-S",
+    "name": "RSX Type S",
     "year": 2002,
     "car-type": "Retro Hot Hatch",
     "country": "USA",
@@ -882,10 +882,10 @@
   {
     "manufacture": "Alfa Romeo",
     "name": "8C Competizione",
-    "year": 2008,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "year": 2007,
+    "car-type": "GT Cars",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1032
   },
@@ -1131,7 +1131,7 @@
   },
   {
     "manufacture": "Alfa Romeo",
-    "name": "Giulia GTA",
+    "name": "Giulia Sprint GTA Stradale",
     "year": 1965,
     "car-type": "Rare Classics",
     "country": "Italy",
@@ -2911,11 +2911,11 @@
   },
   {
     "manufacture": "Alfa Romeo",
-    "name": "Giulia",
-    "year": 2016,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "name": "Giulia Quadrifoglio",
+    "year": 2017,
+    "car-type": "Modern Super Saloons",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2542
   },
@@ -3672,10 +3672,10 @@
   {
     "manufacture": "Aston Martin",
     "name": "Vantage",
-    "year": 2018,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "year": 2019,
+    "car-type": "GT Cars",
+    "country": "UK",
+    "collection": "Autoshow",
     "add-ons": null,
     "id": 3091
   },
@@ -3792,10 +3792,10 @@
   {
     "manufacture": "Apollo",
     "name": "Intensa Emozione",
-    "year": 2018,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "year": 2019,
+    "car-type": "Extreme Track Toys",
+    "country": "Germany",
+    "collection": "Wheelspin, Seasonal",
     "add-ons": null,
     "id": 3141
   },
@@ -3932,10 +3932,10 @@
   {
     "manufacture": "Aston Martin",
     "name": "Vulcan AMR Pro",
-    "year": 2019,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "year": 2017,
+    "car-type": "Extreme Track Toys",
+    "country": "UK",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3211
   },
@@ -4592,10 +4592,10 @@
   {
     "manufacture": "Aston Martin",
     "name": "DBX",
-    "year": 2019,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "year": 2021,
+    "car-type": "Sports Utility Heroes",
+    "country": "UK",
+    "collection": "Seasonal",
     "add-ons": null,
     "id": 3580
   },
@@ -5941,7 +5941,7 @@
   },
   {
     "manufacture": "Alfa Romeo",
-    "name": "Giulia GTAM",
+    "name": "Giulia GTAm",
     "year": 2021,
     "car-type": "Modern Super Saloons",
     "country": "Italy",
@@ -6202,10 +6202,10 @@
   {
     "manufacture": "GR",
     "name": "GT Prototype",
-    "year": 2026,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "year": 2025,
+    "car-type": "Super GT",
+    "country": "Japan",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 4221
   },
