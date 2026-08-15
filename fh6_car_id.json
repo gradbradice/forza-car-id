@@ -408,10 +408,11 @@
     "manufacture": "Acura",
     "name": "Integra Type R",
     "year": 2001,
-    "id": 368,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Retro Hot Hatch",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 368
   },
   {
     "manufacture": "Mitsubishi",
@@ -4674,10 +4675,11 @@
     "manufacture": "Acura",
     "name": "NSX Type S",
     "year": 2022,
-    "id": 3767,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Modern Supercars",
+    "country": "USA",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 3767
   },
   {
     "manufacture": "Chevrolet",
@@ -5763,10 +5765,11 @@
     "manufacture": "Ford",
     "name": "F-150 Raptor R (Welcome Pack)",
     "year": 2023,
-    "id": 4268,
-    "country": null,
-    "collection": null,
-    "add-ons": "Welcome Pack"
+    "car-type": "Pickups & 4x4's",
+    "country": "USA",
+    "collection": "Autoshow DLC",
+    "add-ons": "Welcome Pack",
+    "id": 4268
   },
   {
     "manufacture": "Honda",
@@ -5863,6 +5866,16 @@
     "name": "GT Prototype",
     "year": 2025,
     "country": "Japan",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": null
+  },
+  {
+    "manufacture": "Acura",
+    "name": "RSX Type S",
+    "year": 2002,
+    "car-type": "Retro Hot Hatch",
+    "country": "USA",
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": null
