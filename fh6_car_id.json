@@ -3,82 +3,91 @@
     "manufacture": "Toyota",
     "name": "2000 GT",
     "year": 1969,
-    "id": 247,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Rare Classics",
+    "country": "Japan",
+    "collection": "Collection Journal",
+    "add-ons": null,
+    "id": 247
   },
   {
     "manufacture": "Ferrari",
     "name": "250 GTO",
     "year": 1964,
-    "id": 249,
+    "car-type": null,
     "country": null,
     "collection": null,
-    "add-ons": null
+    "add-ons": null,
+    "id": 249
   },
   {
     "manufacture": "Mercedes-Benz",
     "name": "300 SL",
     "year": 1954,
-    "id": 251,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Rare Classics",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 251
   },
   {
     "manufacture": "Ferrari",
     "name": "F355 Berlinetta",
     "year": 1994,
-    "id": 253,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Retro Supercars",
+    "country": "Italy",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 253
   },
   {
     "manufacture": "Ferrari",
     "name": "512 TR",
     "year": 1991,
-    "id": 255,
+    "car-type": null,
     "country": null,
     "collection": null,
-    "add-ons": null
+    "add-ons": null,
+    "id": 255
   },
   {
     "manufacture": "Porsche",
     "name": "911 Carrera RS",
     "year": 1973,
-    "id": 260,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Rare Classics",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 260
   },
   {
     "manufacture": "Porsche",
     "name": "911 GT2",
     "year": 1995,
-    "id": 261,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Retro Supercars",
+    "country": "Germany",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 261
   },
   {
     "manufacture": "Porsche",
     "name": "911 GT3",
     "year": 2004,
-    "id": 262,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Retro Supercars",
+    "country": "Germany",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 262
   },
   {
     "manufacture": "Porsche",
     "name": "911 Turbo",
     "year": 1982,
-    "id": 265,
-    "country": null,
-    "collection": null,
-    "add-ons": null
+    "car-type": "Retro Supercars",
+    "country": "Germany",
+    "collection": "Collection Journal",
+    "add-ons": null,
+    "id": 265
   },
   {
     "manufacture": "Porsche",
