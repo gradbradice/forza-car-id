@@ -12,9 +12,9 @@
     <tr>
       <td>Forza Horizon 6</td>
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh6_car_id.json">fh6_car_id.json</a></td>
-      <td>1.0.0 (initial)</td>
+      <td>1.0.1</td>
       <td>2026-08-15</td>
-      <td>Based on <a href="https://gist.github.com/HDR/0659d1717bc61504bf83750628963f4f">data</a></td>
+      <td>Based on <a href="https://gist.github.com/HDR/0659d1717bc61504bf83750628963f4f">parsing data</a> and <a href="https://forza.net/fh6cars">official data</a></td>
     </tr>
   </tbody>
 </table>
