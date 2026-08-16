@@ -930,6 +930,256 @@
     "id": 417
   },
   {
+    "manufacture": "Cadillac",
+    "name": "ATS-V",
+    "year": 2016,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2262
+  },
+  {
+    "manufacture": "Cadillac",
+    "name": "CT4-V Blackwing",
+    "year": 2022,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3719
+  },
+  {
+    "manufacture": "Cadillac",
+    "name": "CT5-V Blackwing",
+    "year": 2022,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3720
+  },
+  {
+    "manufacture": "Cadillac",
+    "name": "CTS-V Sedan",
+    "year": 2016,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2421
+  },
+  {
+    "manufacture": "Cadillac",
+    "name": "XTS Limousine",
+    "year": 2013,
+    "car-type": "Modern Super Saloons",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2128
+  },
+  {
+    "manufacture": "Can-Am",
+    "name": "Maverick X RS Turbo R",
+    "year": 2018,
+    "car-type": "UTV's",
+    "country": "Canada",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2871
+  },
+  {
+    "manufacture": "Casey Currie Motorsports",
+    "name": "#4402 Ultra 4 Trophy Jeep",
+    "year": 2019,
+    "car-type": "Unlimited Offroad",
+    "country": "USA",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 3603
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Bel Air",
+    "year": 1957,
+    "car-type": "Rods and Customs",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1459
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Camaro Super Sport Coupe",
+    "year": 1969,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 289
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Camaro Z28",
+    "year": 1970,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1330
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Camaro Z28",
+    "year": 1979,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1064
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Camaro Z/28",
+    "year": 2015,
+    "car-type": "Track Toys",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2183
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Chevelle Super Sport 454",
+    "year": 1970,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 299
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette",
+    "year": 1953,
+    "car-type": "Classic Sports Cars",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1564
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette",
+    "year": 1960,
+    "car-type": "Classic Sports Cars",
+    "country": "USA",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 1093
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette Stingray 427",
+    "year": 1967,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Collection Journal, Seasonal",
+    "add-ons": null,
+    "id": 312
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette Z06",
+    "year": 2002,
+    "car-type": "Retro Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 314
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette Z06",
+    "year": 2015,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2177
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette ZR-1",
+    "year": 1970,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 315
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Corvette ZR1",
+    "year": 2009,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1069
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "El Camino Super Sport 454",
+    "year": 1970,
+    "car-type": "Utility Heroes",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1291
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Impala Super Sport 409",
+    "year": 1964,
+    "car-type": "Rods and Customs",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1300
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Impala Super Sport",
+    "year": 1996,
+    "car-type": "Retro Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1379
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Monte Carlo Super Sport",
+    "year": 1988,
+    "car-type": "Retro Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1575
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Nova Super Sport 396",
+    "year": 1969,
+    "car-type": "Classic Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1429
+  },
+  {
     "manufacture": "Toyota",
     "name": "2000 GT",
     "year": 1969,
@@ -1050,16 +1300,6 @@
     "id": 281
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Camaro SS",
-    "year": 1969,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 289
-  },
-  {
     "manufacture": "Porsche",
     "name": "Carrera GT",
     "year": 2003,
@@ -1090,16 +1330,6 @@
     "id": 296
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Chevelle",
-    "year": 1970,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 299
-  },
-  {
     "manufacture": "Honda",
     "name": "Civic Type R",
     "year": 2004,
@@ -1128,36 +1358,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 309
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Corvette Stingray",
-    "year": 1967,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Collection Journal, Seasonal",
-    "add-ons": null,
-    "id": 312
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Corvette Z06",
-    "year": 2002,
-    "car-type": "Retro Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 314
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Corvette ZR1",
-    "year": 1970,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 315
   },
   {
     "manufacture": "Lamborghini",
@@ -1800,26 +2000,6 @@
     "id": 1063
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Camaro Z/28",
-    "year": 1979,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1064
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Corvette ZR1",
-    "year": 2009,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1069
-  },
-  {
     "manufacture": "Ford",
     "name": "Focus RS",
     "year": 2009,
@@ -1838,16 +2018,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1090
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Corvette",
-    "year": 1960,
-    "car-type": "Classic Sports Cars",
-    "country": "USA",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 1093
   },
   {
     "manufacture": "Nissan",
@@ -2090,16 +2260,6 @@
     "id": 1282
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "El Camino SS",
-    "year": 1970,
-    "car-type": "Utility Heroes",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1291
-  },
-  {
     "manufacture": "Ford",
     "name": "Sierra RS500",
     "year": 1987,
@@ -2150,16 +2310,6 @@
     "id": 1299
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Impala SS",
-    "year": 1964,
-    "car-type": "Rods and Customs",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1300
-  },
-  {
     "manufacture": "Jaguar",
     "name": "D-Type",
     "year": 1956,
@@ -2188,16 +2338,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1323
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Camaro Z/28",
-    "year": 1970,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1330
   },
   {
     "manufacture": "Dodge",
@@ -2258,16 +2398,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1376
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Impala SS",
-    "year": 1996,
-    "car-type": "Retro Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1379
   },
   {
     "manufacture": "Mitsubishi",
@@ -2360,16 +2490,6 @@
     "id": 1428
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Nova SS",
-    "year": 1969,
-    "car-type": "Classic Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1429
-  },
-  {
     "manufacture": "Volkswagen",
     "name": "Beetle",
     "year": 1963,
@@ -2378,16 +2498,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1435
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Bel Air",
-    "year": 1957,
-    "car-type": "Rods and Customs",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1459
   },
   {
     "manufacture": "Ford",
@@ -2520,16 +2630,6 @@
     "id": 1562
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Corvette",
-    "year": 1953,
-    "car-type": "Classic Sports Cars",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1564
-  },
-  {
     "manufacture": "Honda",
     "name": "Civic RS",
     "year": 1974,
@@ -2538,16 +2638,6 @@
     "collection": "Collection Journal, Seasonal",
     "add-ons": null,
     "id": 1568
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Monte Carlo",
-    "year": 1988,
-    "car-type": "Retro Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 1575
   },
   {
     "manufacture": "Ferrari",
@@ -2730,16 +2820,6 @@
     "id": 2004
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Corvette ZR-1",
-    "year": 1995,
-    "car-type": "Retro Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2006
-  },
-  {
     "manufacture": "Toyota",
     "name": "GT86",
     "year": 2013,
@@ -2798,16 +2878,6 @@
     "collection": "Autoshow, Collection Journal, Wheelspin",
     "add-ons": null,
     "id": 2121
-  },
-  {
-    "manufacture": "Cadillac",
-    "name": "XTS Limo",
-    "year": 2013,
-    "car-type": "Modern Super Saloons",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2128
   },
   {
     "manufacture": "Holden",
@@ -2940,26 +3010,6 @@
     "id": 2175
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Corvette Z06",
-    "year": 2015,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2177
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Camaro Z/28",
-    "year": 2015,
-    "car-type": "Track Toys",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2183
-  },
-  {
      "manufacture": "Ferrari",
     "name": "458 Speciale",
     "year": 2013,
@@ -3018,16 +3068,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2242
-  },
-  {
-    "manufacture": "Cadillac",
-    "name": "ATS-V",
-    "year": 2016,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2262
   },
   {
     "manufacture": "Dodge",
@@ -3160,16 +3200,6 @@
     "id": 2420
   },
   {
-    "manufacture": "Cadillac",
-    "name": "CTS-V Sedan",
-    "year": 2016,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2421
-  },
-  {
     "manufacture": "Holden",
     "name": "HSV GTS Maloo",
     "year": 2016,
@@ -3248,16 +3278,6 @@
     "collection": "Autoshow, Collection Journal",
     "add-ons": null,
     "id": 2494
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "150 Utility Sedan",
-    "year": 1955,
-    "car-type": "Rods and Customs",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2507
   },
   {
     "manufacture": "Nissan",
@@ -3560,16 +3580,6 @@
     "id": 2738
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Camaro ZL1",
-    "year": 2017,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2739
-  },
-  {
     "manufacture": "Jeep",
     "name": "Trailcat",
     "year": 2017,
@@ -3698,16 +3708,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2870
-  },
-  {
-    "manufacture": "Can-Am",
-    "name": "Maverick",
-    "year": 2018,
-    "car-type": "UTV's",
-    "country": "Canada",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 2871
   },
   {
     "manufacture": "Hyundai",
@@ -4050,16 +4050,6 @@
     "id": 3117
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Corvette ZR1",
-    "year": 2019,
-    "car-type": "Track Toys",
-    "country": "USA",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 3118
-  },
-  {
     "manufacture": "Lamborghini",
     "name": "Urus",
     "year": 2019,
@@ -4118,16 +4108,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3134
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Camaro 1LE",
-    "year": 2018,
-    "car-type": "Track Toys",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3149
   },
   {
     "manufacture": "McLaren",
@@ -4470,16 +4450,6 @@
     "id": 3367
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Corvette",
-    "year": 2020,
-    "car-type": "Modern Supercars",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3369
-  },
-  {
     "manufacture": "Lamborghini",
     "name": "Huracan EVO",
     "year": 2020,
@@ -4640,16 +4610,6 @@
     "id": 3476
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Silverado LTZ 71",
-    "year": 2020,
-    "car-type": "Pickups & 4x4's",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3477
-  },
-  {
     "manufacture": "McLaren",
     "name": "765LT",
     "year": 2021,
@@ -4790,16 +4750,6 @@
     "id": 3554
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "C/K Pickup",
-    "year": 1973,
-    "car-type": null,
-    "country": null,
-    "collection": null,
-    "add-ons": null,
-    "id": 3590
-  },
-  {
     "manufacture": "Ferrari",
     "name": "Roma",
     "year": 2020,
@@ -4848,16 +4798,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3600
-  },
-  {
-    "manufacture": "Casey Currie Motorsports",
-    "name": "#4402 Ultra 4 Trophy Jeep",
-    "year": 2019,
-    "car-type": "Unlimited Offroad",
-    "country": "USA",
-    "collection": "Wheelspin, Seasonal",
-    "add-ons": null,
-    "id": 3603
   },
   {
     "manufacture": "Jimco",
@@ -5130,26 +5070,6 @@
     "id": 3716
   },
   {
-    "manufacture": "Cadillac",
-    "name": "CT4-V Blackwing",
-    "year": 2022,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3719
-  },
-  {
-    "manufacture": "Cadillac",
-    "name": "CT5-V Blackwing",
-    "year": 2022,
-    "car-type": "Modern Muscle",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3720
-  },
-  {
     "manufacture": "GMC",
     "name": "Hummer EV",
     "year": 2022,
@@ -5260,16 +5180,6 @@
     "id": 3761
   },
   {
-    "manufacture": "Chevrolet",
-    "name": "Corvette Z06",
-    "year": 2023,
-    "car-type": "Track Toys",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin",
-    "add-ons": null,
-    "id": 3766
-  },
-  {
     "manufacture": "Acura",
     "name": "NSX Type S",
     "year": 2022,
@@ -5278,16 +5188,6 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 3767
-  },
-  {
-    "manufacture": "Chevrolet",
-    "name": "Corvette E-Ray",
-    "year": 2024,
-    "car-type": "Modern Supercars",
-    "country": "USA",
-    "collection": "Autoshow, Wheelspin, Loyalty",
-    "add-ons": null,
-    "id": 3771
   },
   {
     "manufacture": "Honda",
