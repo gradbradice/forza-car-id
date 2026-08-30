@@ -1031,6 +1031,16 @@
   },
   {
     "manufacturer": "Chevrolet",
+    "name": "150 Utility Sedan",
+    "year": 1955,
+    "car-type": "Rods and Customs",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2507
+  },
+  {
+    "manufacturer": "Chevrolet",
     "name": "Bel Air",
     "year": 1957,
     "car-type": "Rods and Customs",
@@ -1081,6 +1091,36 @@
   },
   {
     "manufacturer": "Chevrolet",
+    "name": "Camaro ZL1",
+    "year": 2017,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2739
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "name": "Camaro ZL1",
+    "year": 2024,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 3954
+  },
+  {
+    "manufacture": "Chevrolet",
+    "name": "Camaro ZL1 1LE",
+    "year": 2018,
+    "car-type": "Track Toys",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3149
+  },
+  {
+    "manufacturer": "Chevrolet",
     "name": "Chevelle Super Sport 454",
     "year": 1970,
     "car-type": "Classic Muscle",
@@ -1111,6 +1151,16 @@
   },
   {
     "manufacturer": "Chevrolet",
+    "name": "Corvette Corvette E-Ray",
+    "year": 2024,
+    "car-type": "Modern Supercars",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin, Loyalty",
+    "add-ons": null,
+    "id": 3771
+  },
+  {
+    "manufacturer": "Chevrolet",
     "name": "Corvette Stingray 427",
     "year": 1967,
     "car-type": "Classic Muscle",
@@ -1118,6 +1168,16 @@
     "collection": "Collection Journal, Seasonal",
     "add-ons": null,
     "id": 312
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "name": "Corvette Stingray Coupe",
+    "year": 2020,
+    "car-type": "Modern Supercars",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3369
   },
   {
     "manufacturer": "Chevrolet",
@@ -1141,6 +1201,16 @@
   },
   {
     "manufacturer": "Chevrolet",
+    "name": "Corvette Z06",
+    "year": 2023,
+    "car-type": "Track Toys",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3766
+  },
+  {
+    "manufacturer": "Chevrolet",
     "name": "Corvette ZR-1",
     "year": 1970,
     "car-type": "Classic Muscle",
@@ -1151,6 +1221,16 @@
   },
   {
     "manufacturer": "Chevrolet",
+    "name": "Corvette ZR-1",
+    "year": 1995,
+    "car-type": "Retro Muscle",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 2006
+  },
+  {
+    "manufacturer": "Chevrolet",
     "name": "Corvette ZR1",
     "year": 2009,
     "car-type": "Modern Muscle",
@@ -1158,6 +1238,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1069
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "name": "Corvette ZR1",
+    "year": 2019,
+    "car-type": "Track Toys",
+    "country": "USA",
+    "collection": "Wheelspin, Seasonal",
+    "add-ons": null,
+    "id": 3118
   },
   {
     "manufacturer": "Chevrolet",
@@ -1190,6 +1280,16 @@
     "id": 1300
   },
   {
+    "manufacture": "Chevrolet",
+    "name": "K-10 Custom",
+    "year": 1972,
+    "car-type": "Pickups & 4x4's",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3590
+  },
+  {
     "manufacturer": "Chevrolet",
     "name": "Monte Carlo Super Sport",
     "year": 1988,
@@ -1208,6 +1308,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1429
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "name": "Silverado LT Trail Boss",
+    "year": 2020,
+    "car-type": "Pickups & 4x4's",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 3477
   },
   {
     "manufacturer": "Datsun",
@@ -1448,6 +1558,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1046
+  },
+  {
+    "manufacture": "Exomotive",
+    "name": "Exocet Sport V8 XP-5",
+    "year": 2018,
+    "car-type": "Track Toys",
+    "country": "USA",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2866
   },
   {
     "manufacturer": "Ferrari",
@@ -1861,21 +1981,21 @@
   },
   {
     "manufacturer": "Ford",
-    "name": "Capri",
-    "year": 1974,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "name": "Capri RS3100",
+    "year": 1973,
+    "car-type": "Classic Sports Cars",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1529
   },
   {
     "manufacturer": "Ford",
-    "name": "Coupe",
+    "name": "De Luxe Five-Window Coupe",
     "year": 1932,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "car-type": "Rods and Customs",
+    "country": "USA",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2372
   },
@@ -2298,6 +2418,16 @@
     "collection": "Collection Journal, Seasonal",
     "add-ons": null,
     "id": 3755
+  },
+  {
+    "manufacturer": "Ford",
+    "name": "Thunderbird",
+    "year": 1957,
+    "car-type": "Rods & Customs",
+    "country": "USA",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 1283
   },
   {
     "manufacturer": "Ford",
@@ -2778,6 +2908,16 @@
     "collection": "Autoshow, Collection Journal, Wheelspin",
     "add-ons": null,
     "id": 3773
+  },
+  {
+    "manufacturer": "Honda",
+    "name": "N600",
+    "year": 1970,
+    "car-type": "Electic Domestics",
+    "country": "Japan",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 3937
   },
   {
     "manufacturer": "Honda",
@@ -4410,6 +4550,16 @@
     "id": 2652
   },
   {
+    "manufacturer": "Mitsubishi",
+    "name": "Starion ESI-R",
+    "year": 1988,
+    "car-type": "Retro Sports Cars",
+    "country": "Japan",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 1297
+  },
+  {
     "manufacturer": "NUL_CAR_00",
     "name": "",
     "year": null,
@@ -4421,13 +4571,23 @@
   },
   {
     "manufacturer": "Nissan",
-    "name": "#11 Tomica Skylien Turbo Super Silhouette",
+    "name": "#11 Tomica Skyline Turbo Super Silhouette",
     "year": 1983,
     "car-type": "Retro Racers",
     "country": "Japan",
     "collection": "Collection Journal",
     "add-ons": null,
     "id": 2801
+  },
+  {
+    "manufacturer": "Nissan",
+    "name": "Skyline 2000 Turbo RS",
+    "year": 1983,
+    "car-type": "Retro Sports Cars",
+    "country": "Japan",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 4238
   },
   {
     "manufacturer": "Nissan",
@@ -5048,6 +5208,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3031
+  },
+  {
+    "manufacture": "Porsche",
+    "name": "#203 Porsche AG 961",
+    "year": 1987,
+    "car-type": "Retro Racers",
+    "country": "Germany",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3282
   },
   {
     "manufacturer": "Porsche",
@@ -5868,6 +6038,16 @@
     "collection": "Autoshow",
     "add-ons": null,
     "id": 3848
+  },
+  {
+    "manufacturer": "Toyota",
+    "name": "Celica GT",
+    "year": 1974,
+    "car-type": "Classic Sports Cars",
+    "country": "Japan",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 1592
   },
   {
     "manufacturer": "Toyota",
