@@ -3811,11 +3811,11 @@
   },
   {
     "manufacturer": "Maserati",
-    "name": "MC12 Corsa",
-    "year": 2006,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "name": "MC12 Versione Corsa",
+    "year": 2008,
+    "car-type": "Extreme Track Toys",
+    "country": "Italy",
+    "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3082
   },
@@ -3868,6 +3868,26 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 1229
+  },
+  {
+    "manufacturer": "Mazda",
+    "name": "Mazdaspeed 3",
+    "year": 2010,
+    "car-type": "Hot Hatch",
+    "country": "Japan",
+    "collection": "Autoshow, Wheelspin",
+    "add-ons": null,
+    "id": 1221
+  },
+  {
+    "manufacturer": "Mazda",
+    "name": "Mazdaspeed 3 (Traffic)",
+    "year": 2010,
+    "car-type": null,
+    "country": null,
+    "collection": null,
+    "add-ons": null,
+    "id": 2711
   },
   {
     "manufacturer": "Mazda",
@@ -3998,26 +4018,6 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1426
-  },
-  {
-    "manufacturer": "Mazdaspeed",
-    "name": "3",
-    "year": 2010,
-    "car-type": null,
-    "country": null,
-    "collection": null,
-    "add-ons": null,
-    "id": 1221
-  },
-  {
-    "manufacturer": "Mazdaspeed",
-    "name": "3 (Traffic)",
-    "year": 2010,
-    "car-type": null,
-    "country": null,
-    "collection": null,
-    "add-ons": null,
-    "id": 2711
   },
   {
     "manufacturer": "McLaren",
