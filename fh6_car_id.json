@@ -1280,7 +1280,7 @@
     "id": 1300
   },
   {
-    "manufacture": "Chevrolet",
+    "manufacturer": "Chevrolet",
     "name": "K-10 Custom",
     "year": 1972,
     "car-type": "Pickups & 4x4's",
@@ -1560,7 +1560,7 @@
     "id": 1046
   },
   {
-    "manufacture": "Exomotive",
+    "manufacturer": "Exomotive",
     "name": "Exocet Sport V8 XP-5",
     "year": 2018,
     "car-type": "Track Toys",
@@ -5210,7 +5210,7 @@
     "id": 3031
   },
   {
-    "manufacture": "Porsche",
+    "manufacturer": "Porsche",
     "name": "#203 Porsche AG 961",
     "year": 1987,
     "car-type": "Retro Racers",

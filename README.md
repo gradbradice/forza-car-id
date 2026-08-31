@@ -38,8 +38,8 @@ Forza Horizon 6
     <tr>
       <td>Forza Horizon 6</td>
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh6_car_id.json">fh6_car_id.json</a></td>
-      <td>1.2.12</td>
-      <td>2026-08-23</td>
+      <td>1.2.13</td>
+      <td>2026-08-31</td>
       <td>Based on <a href="https://gist.github.com/HDR/0659d1717bc61504bf83750628963f4f">parsing data</a> and <a href="https://forza.net/fh6cars">official data</a></td>
     </tr>
   </tbody>
