@@ -930,6 +930,16 @@
     "id": 3728
   },
   {
+    "manufacturer": "Bentley",
+    "name": "Continental GT Speed",
+    "year": 2025,
+    "car-type": "Super GT",
+    "country": "UK",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 4067
+  },
+  {
     "manufacturer": "Box",
     "name": "Truck (Traffic)",
     "year": 2014,
@@ -1447,6 +1457,16 @@
     "country": "USA",
     "collection": "Autoshow, Collection Journal, Wheelspin",
     "add-ons": null,
+    "id": 2909
+  },
+  {
+    "manufacturer": "Dodge",
+    "name": "Challenger SRT Demon 170",
+    "year": 2023,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
     "id": 2909
   },
   {
@@ -2590,6 +2610,16 @@
     "id": 2935
   },
   {
+    "manufacturer": "Ginetta",
+    "name": "G40 Junior",
+    "year": 2019,
+    "car-type": "Track Toys",
+    "country": "UK",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 3429
+  },
+  {
     "manufacturer": "GMC",
     "name": "Hummer EV",
     "year": 2022,
@@ -3141,6 +3171,36 @@
   },
   {
     "manufacturer": "Jaguar",
+    "name": "XJ-S",
+    "year": 1990,
+    "car-type": "Cult Cars",
+    "country": "UK",
+    "collection": "Autoshow",
+    "add-ons": null,
+    "id": 1534
+  },
+  {
+    "manufacturer": "Jaguar",
+    "name": "XJ-S Forza Edition",
+    "year": 1990,
+    "car-type": "Drift Cars",
+    "country": "UK",
+    "collection": "Collection Journal",
+    "add-ons": null,
+    "id": 4354
+  },
+  {
+    "manufacturer": "Jaguar",
+    "name": "XKR-S GT",
+    "year": 2015,
+    "car-type": "Track Toys",
+    "country": "UK",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2235
+  },
+  {
+    "manufacturer": "Jaguar",
     "name": "XJR-15",
     "year": 1991,
     "car-type": "Retro Supercars",
@@ -3681,6 +3741,16 @@
   },
   {
     "manufacturer": "Lotus",
+    "name": "Esprit",
+    "year": 2002,
+    "car-type": "Retro Supercars",
+    "country": "UK",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 335
+  },
+  {
+    "manufacturer": "Lotus",
     "name": "Evija",
     "year": 2020,
     "car-type": "Hypercars",
@@ -4138,6 +4208,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3156
+  },
+  {
+    "manufacturer": "McLaren",
+    "name": "W1",
+    "year": 2025,
+    "car-type": "Hypercars",
+    "country": "UK",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 4118
   },
   {
     "manufacturer": "Mercedes-AMG",
@@ -5471,6 +5551,16 @@
   },
   {
     "manufacturer": "Porsche",
+    "name": "Carrera Coupe 'Luftauto 002'",
+    "year": 1987,
+    "car-type": "Rally Monsters",
+    "country": "Germany",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3624
+  },
+  {
+    "manufacturer": "Porsche",
     "name": "Carrera GT",
     "year": 2003,
     "car-type": "Retro Supercars",
@@ -5638,6 +5728,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1204
+  },
+  {
+    "manufacturer": "Renault",
+    "name": "Sport Spider",
+    "year": 1998,
+    "car-type": "Retro Sports Cars",
+    "country": "France",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3980
   },
   {
     "manufacturer": "Rimac",
@@ -6408,6 +6508,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 2569
+  },
+  {
+    "manufacturer": "Vauxhall",
+    "name": "Astra VXR",
+    "year": 2006,
+    "car-type": "Super Hot Hatch",
+    "country": "UK",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 278
   },
   {
     "manufacturer": "Volkswagen",
