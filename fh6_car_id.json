@@ -751,6 +751,16 @@
   },
   {
     "manufacturer": "BMW",
+    "name": "M4 CS",
+    "year": 2025,
+    "car-type": "Modern Super Saloons",
+    "country": "Germany",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 4122
+  },
+  {
+    "manufacturer": "BMW",
     "name": "M4 Competition Coupé",
     "year": 2021,
     "car-type": "Modern Super Saloons",
@@ -1330,6 +1340,16 @@
     "id": 3477
   },
   {
+    "manufacturer": "Citroën",
+    "name": "2CV",
+    "year": 1970,
+    "car-type": "Cult Cars",
+    "country": "France",
+    "collection": "Treasure",
+    "add-ons": null,
+    "id": 2157
+  },
+  {
     "manufacturer": "Datsun",
     "name": "#269 Attacking The Clock Racing 240Z All Carbon Hillclimb Beast",
     "year": 1972,
@@ -1348,6 +1368,16 @@
     "collection": "Seasonal",
     "add-ons": null,
     "id": 2272
+  },
+  {
+    "manufacturer": "Datsun",
+    "name": "240Z #5 Rallye",
+    "year": 1972,
+    "car-type": "Classic Rally",
+    "country": "Japan",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 4188
   },
   {
     "manufacturer": "Datsun",
@@ -1381,6 +1411,16 @@
   },
   {
     "manufacturer": "DeBerti",
+    "name": "Ford Mustang GT",
+    "year": 2018,
+    "car-type": "Modern Muscle",
+    "country": "USA",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 3085
+  },
+  {
+    "manufacturer": "DeBerti",
     "name": "Ford Super Duty F-250 Lariat Transformer",
     "year": 2019,
     "car-type": "Unlimited Offroad",
@@ -1392,7 +1432,7 @@
   {
     "manufacturer": "DeBerti",
     "name": "Jeep Wrangler Unlimited",
-    "year": 2018,
+    "year": 2013,
     "car-type": "Unlimited Offroad",
     "country": "USA",
     "collection": "Autoshow, Wheelspin",
@@ -1578,6 +1618,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 1046
+  },
+  {
+    "manufacturer": "Eunos",
+    "name": "Cosmo",
+    "year": 1990,
+    "car-type": "Retro Sports Cars",
+    "country": "Japan",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3857
   },
   {
     "manufacturer": "Exomotive",
@@ -1938,6 +1988,16 @@
     "collection": "Autoshow, Wheelspin",
     "add-ons": null,
     "id": 3225
+  },
+  {
+    "manufacturer": "Ferrari",
+    "name": "Purosangue",
+    "year": 2024,
+    "car-type": "Sports Utility Heroes",
+    "country": "Italy",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3593
   },
   {
     "manufacturer": "Ferrari",
@@ -2731,6 +2791,16 @@
   },
   {
     "manufacturer": "Holden",
+    "name": "Monaro GTS 327",
+    "year": 1968,
+    "car-type": "Classic Muscle",
+    "country": "Australia",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 1511
+  },
+  {
+    "manufacturer": "Holden",
     "name": "Torana",
     "year": 1977,
     "car-type": "Classic Muscle",
@@ -2762,11 +2832,11 @@
   {
     "manufacturer": "Honda",
     "name": "#33 Integra WTAC",
-    "year": 2021,
-    "car-type": null,
-    "country": null,
-    "collection": null,
-    "add-ons": null,
+    "year": 2001,
+    "car-type": "Extreme Track Toys",
+    "country": "Japan",
+    "collection": "Autoshow DLC",
+    "add-ons": "Time Attack Car Pack",
     "id": 4254
   },
   {
@@ -2988,6 +3058,16 @@
     "collection": "Autoshow, Collection Journal, Wheelspin",
     "add-ons": null,
     "id": 2121
+  },
+  {
+    "manufacturer": "Honda",
+    "name": "Prelude Type SH",
+    "year": 2000,
+    "car-type": "Retro Sports Cars",
+    "country": "Japan",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 2817
   },
   {
     "manufacturer": "Honda",
@@ -4231,6 +4311,16 @@
   },
   {
     "manufacturer": "Mercedes-AMG",
+    "name": "GT 63 4Matic+",
+    "year": 2024,
+    "car-type": "Super GT",
+    "country": "Germany",
+    "collection": "Autoshow DLC",
+    "add-ons": "Car Pass",
+    "id": 3839
+  },
+  {
+    "manufacturer": "Mercedes-AMG",
     "name": "GT Black Series",
     "year": 2021,
     "car-type": "Track Toys",
@@ -4243,9 +4333,9 @@
     "manufacturer": "Mercedes-AMG",
     "name": "GT Black Series (Welcome Pack)",
     "year": 2021,
-    "car-type": null,
-    "country": null,
-    "collection": null,
+    "car-type": "Track Toys",
+    "country": "Germany",
+    "collection": "Autoshow DLC",
     "add-ons": "Welcome Pack",
     "id": 4265
   },
@@ -5798,6 +5888,16 @@
     "collection": "Autoshow, Wheelspin, Loyalty",
     "add-ons": null,
     "id": 1562
+  },
+  {
+    "manufacturer": "Saleen",
+    "name": "S7",
+    "year": 2004,
+    "car-type": "Retro Supercars",
+    "country": "USA",
+    "collection": "Seasonal",
+    "add-ons": null,
+    "id": 432
   },
   {
     "manufacturer": "Saleen",
